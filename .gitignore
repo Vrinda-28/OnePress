@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+.openai/*.local.json
+test-results/
+.testsprite/
+
+# Local development tools
+.agents/
+.openai/
+.vercel/
+playwright-report/
+testsprite-plans/
+.env
+.env.*

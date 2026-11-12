@@ -1,0 +1,53 @@
+{
+  "clear": {
+    "raw": "NORTHFIELD COLLEGE\n\nLibrary orientation\nDate: October 14, 2026\n\nTime: 2:30 PM\n\nRoom: B204\n\nAll students are welcome.",
+    "fields": {
+      "date": {
+        "actual": "October 14, 2026",
+        "correct": true
+      },
+      "time": {
+        "actual": "2:30 PM",
+        "correct": true
+      },
+      "room": {
+        "actual": "B204",
+        "correct": true
+      }
+    }
+  },
+  "blurry": {
+    "raw": "—— - —\n\nPret tuto ving meee tug\nema Cw\n—-—~\n\nLE\n\na. — a -",
+    "fields": {
+      "date": {
+        "actual": null,
+        "correct": false
+      },
+      "time": {
+        "actual": null,
+        "correct": false
+      },
+      "room": {
+        "actual": null,
+        "correct": false
+      }
+    }
+  },
+  "low-contrast": {
+    "raw": "NORTHFIELD COLLEGE\n\nLab safety briefing\nDate: November 3, 2026\n\nTime: 10:15 AM\n\nRoom: D307\n\nOpen to first-year lab students.",
+    "fields": {
+      "date": {
+        "actual": "November 3, 2026",
+        "correct": true
+      },
+      "time": {
+        "actual": "10:15 AM",
+        "correct": true
+      },
+      "room": {
+        "actual": "D307",
+        "correct": true
+      }
+    }
+  }
+}

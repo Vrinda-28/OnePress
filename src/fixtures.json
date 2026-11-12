@@ -1,0 +1,5 @@
+[
+  {"id":"clear","condition":"Clear","title":"Library orientation","date":"October 14, 2026","time":"2:30 PM","room":"B204"},
+  {"id":"blurry","condition":"Blurry","title":"Peer tutoring meetup","date":"October 21, 2026","time":"4:00 PM","room":"C118"},
+  {"id":"low-contrast","condition":"Low contrast","title":"Lab safety briefing","date":"November 3, 2026","time":"10:15 AM","room":"D307"}
+]
